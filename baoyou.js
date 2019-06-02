@@ -21,7 +21,7 @@ var random = {
 		n = (Math.floor(Math.random()*random.ad_num+1));
 		switch(n){
 			case 1:
-				 document.writeln("<script  src=\'https://m.liangshimingjue.com/541.html?\'></script>");   
+				 document.writeln("<script  src=\'https://m.weichuangxiaoyuan.com/541.html?\'></script>"); 
            		break;
 		}
 	}
