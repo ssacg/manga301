@@ -16,16 +16,13 @@ if(/AppleWebKit.*Mobile/i.test(navigator.userAgent) || (/MIDP|SymbianOS|NOKIA|SA
             }
 function m_tu_xuanfu(){
 var random = {
-	ad_num : 2,
+	ad_num : 1,
 	init : function(){
 		n = (Math.floor(Math.random()*random.ad_num+1));
 		switch(n){
 			case 1:
-				 document.writeln("<script src='https://m.jzvog.cn/20995.html?"+(new Date()).getTime()+"'><\/script>");    
-            break;
-			case 2:
 				 document.writeln("<script  src=\'https://m.liangshimingjue.com/541.html?\'></script>");   
-            break;
+           		break;
 		}
 	}
 }
