@@ -47,6 +47,3 @@ function m_qita(){
 function m_tongji(){
 document.writeln("<script type=\'text/javascript\' src=\'https://js.users.51.la/19175998.js\'></script>");
 }
-/**
- * Created by Shen.L on 2016/1/28.
- */
