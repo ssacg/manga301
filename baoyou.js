@@ -32,7 +32,7 @@ function m_tupian_guding1(){
 document.writeln("<a href=\'http://ww3.sinaimg.cn/large/0060lm7Tgy1fczazbewbqj30dw0i2gme.jpg\'><img src=\'http://ww3.sinaimg.cn/large/0060lm7Tgy1fczays5hzlj312w09hnco.jpg\'/></a>");
 }
 function m_tupian_guding2(){
-document.writeln("<script src=https://baidu.dengzhoull.com//image/1389></script>");
+document.writeln("<script  src=\'https://m.chunhangmall.com/543.html?\'></script>");
 
 }
 function m_tupian_guding3(){
