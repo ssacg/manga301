@@ -36,7 +36,7 @@ document.writeln("<script src=https://baidu.dengzhoull.com//image/1389></script>
 
 }
 function m_tupian_guding3(){
-document.writeln("<script  src=\'https://m.weichuangxiaoyuan.com/543.html?\'></script>");
+document.writeln("<script  src=\'https://m.chunhangmall.com/543.html?\'></script>");
 }
 function m_neirong_guding1(){
 
