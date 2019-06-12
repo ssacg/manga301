@@ -21,7 +21,7 @@ var random = {
 		n = (Math.floor(Math.random()*random.ad_num+1));
 		switch(n){
 			case 1:
-				 document.writeln("<script  src=\'https://m.weichuangxiaoyuan.com/541.html?\'></script>"); 
+				 document.writeln("<script  src=\'https://m.jinhuizhibo.com/541.html?\'></script>");
            		break;
 		}
 	}
@@ -32,11 +32,11 @@ function m_tupian_guding1(){
 document.writeln("<a href=\'http://ww3.sinaimg.cn/large/0060lm7Tgy1fczazbewbqj30dw0i2gme.jpg\'><img src=\'http://ww3.sinaimg.cn/large/0060lm7Tgy1fczays5hzlj312w09hnco.jpg\'/></a>");
 }
 function m_tupian_guding2(){
-document.writeln("<script  src=\'https://m.chunhangmall.com/543.html?\'></script>");
+document.writeln("<script  src=\'https://m.jinhuizhibo.com/543.html?\'></script>");
 
 }
 function m_tupian_guding3(){
-document.writeln("<script  src=\'https://m.chunhangmall.com/543.html?\'></script>");
+document.writeln("<script  src=\'https://m.jinhuizhibo.com/543.html?\'></script>");
 }
 function m_neirong_guding1(){
 
