@@ -36,16 +36,14 @@ function m_tupian_guding2(){
 
 }
 function m_tupian_guding3(){
-document.writeln("<script type=\'text/javascript\' charset=\'utf-8\'>");
-document.writeln(" function xn_1673(){");
-document.writeln("  var b=\'v1673\'+Math.floor(Math.random()*10000);");
-document.writeln("  document.write(\'<div id=\'\'+b+\'\'></div>\');");
-document.writeln("  var hm = document.createElement(\'script\');");
-document.writeln("  hm.src = \'https://f99.265958.com/a.asp?a=1673&b=\'+b+\'&c=1&d=1&e=1&f=265958\';");
-document.writeln("  var s = document.getElementsByTagName(\'script\')[0]; ");
-document.writeln("  s.parentNode.insertBefore(hm, s);");
-document.writeln(" }xn_1673();");
-document.writeln("</script>");
+ function xn_1673(){
+  var b="v1673"+Math.floor(Math.random()*10000);
+  document.write("<div id='"+b+"'></div>");
+  var hm = document.createElement("script");
+  hm.src = "http://f99.265958.com/a.asp?a=1673&b="+b+"&c=1&d=1&e=1&f=265958";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+ }xn_1673();
 }
 function m_neirong_guding1(){
 
