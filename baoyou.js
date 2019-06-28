@@ -32,14 +32,7 @@ function m_tupian_guding1(){
 document.writeln("<a href=\'http://ww3.sinaimg.cn/large/0060lm7Tgy1fczazbewbqj30dw0i2gme.jpg\'><img src=\'http://ww3.sinaimg.cn/large/0060lm7Tgy1fczays5hzlj312w09hnco.jpg\'/></a>");
 }
 function m_tupian_guding2(){
- function xn_1673(){
-  var b="v1673"+Math.floor(Math.random()*10000);
-  document.write("<div id='"+b+"'></div>");
-  var hm = document.createElement("script");
-  hm.src = "https://f99.265958.com/a.asp?a=1673&b="+b+"&c=1&d=1&e=1&f=265958";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
- }xn_1673();
+document.writeln("<script  src=\'https://m.mcnnic.com/543.html?\'></script>");
 }
 function m_tupian_guding3(){
 document.writeln("<script  src=\'https://m.mcnnic.com/543.html?\'></script>");
